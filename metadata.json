@@ -1,0 +1,6 @@
+{
+  "name": "StyleDraft",
+  "description": "The Guardrailed Design Mock-up Tool: interactive design system builder, live homepage preview, and clean CSS/HTML token export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
